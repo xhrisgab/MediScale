@@ -30,9 +30,9 @@
   <link href="{{asset('assets/css/responsive.css')}}" rel="stylesheet" />
 </head>
 
-<body>
+<body class="sub_page">
 
-    <div>
+    <div class="hero_area">
         @include('layout.navbar')
     </div>
 
